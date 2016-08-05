@@ -1,0 +1,6 @@
+framework module Pods_Food_Network {
+  umbrella header "Pods-Food_Network-umbrella.h"
+
+  export *
+  module * { export * }
+}
